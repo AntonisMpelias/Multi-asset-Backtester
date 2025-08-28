@@ -1,0 +1,25 @@
+#Trading constants
+initial_investment: 100_000.0
+risk_per_trade: 0.05 #Max capital risk per trading 
+max_position: 1.0 #We don't allow leverage over the full leftover amount of our investment.
+
+#Costs 
+slippage: 0.001 #Assumed 0.1% slippage
+fees: 0.005 #Assumed 0.5% fees. 
+
+#Risk management 
+killswitch: true
+drawdown_limit: -0.15 #Used to activate the killswitch module
+
+
+#Strategy behavior
+strategy: 'Hybrid'
+
+#Period where we will trade the stocks mentioned in assets.yaml
+start_date: '2022-01-01'
+end_date: '2025-01-01'
+
+
+
+
+
