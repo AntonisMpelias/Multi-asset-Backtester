@@ -35,7 +35,7 @@ ___
 
 ---
 # Examples of the plots it produces:
-![Examples of plots1](/reports/plots/markdownImage1)
-![Examples of plots2](/reports/plots/markdownImage2)
+![Examples of plots1](/reports/plots/markdownImage1.png)
+![Examples of plots2](/reports/plots/markdownImage2.png)
 
 **This is a personal passion-project. It is not part of a university assignment or anything of that sort. Feel free to use it for your own experimenting, although building an equivalent project from scratch is recommended due to the knowledge you gain from the process.**
