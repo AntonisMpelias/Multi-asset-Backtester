@@ -1,0 +1,11 @@
+asset_list:
+  Bitcoin: BTC-USD
+  Ethereum: ETH-USD
+  BinanceCoin: BNB-USD
+  Cardano: ADA-USD
+  Solana: SOL-USD
+  Ripple: XRP-USD
+  Dogecoin: DOGE-USD
+  Polkadot: DOT-USD
+  Avalanche: AVAX-USD
+  Litecoin: LTC-USD
